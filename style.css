@@ -135,10 +135,6 @@
     transition: background-color 0.3s;
 }
 
-.menu-item.active {
-    background: rgba(24, 20, 243, 0.05);
-}
-
 .menu-item.active::before {
     content: '';
     position: absolute;
@@ -586,3 +582,4 @@ li a {
 .CEO{
   color: #718EBF;
 }
+
